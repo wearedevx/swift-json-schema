@@ -6,7 +6,7 @@ import CompilerPluginSupport
 let package = Package(
   name: "swift-json-schema",
   platforms: [
-    .macOS(.v14),
+    .macOS(.v13),
     .iOS(.v17),
     .watchOS(.v10),
     .tvOS(.v17),
